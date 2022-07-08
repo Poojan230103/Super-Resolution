@@ -1,0 +1,68 @@
+**********************
+Method_1: RCAN; Set: Set5
+x2 1 image1_RCAN_x2.png: PSNR= 47.714182 SSIM= 0.999036
+x2 2 image2_RCAN_x2.png: PSNR= 41.339868 SSIM= 0.986899
+x2 3 image3_RCAN_x2.png: PSNR= 28.934909 SSIM= 0.906249
+x2 4 image4_RCAN_x2.png: PSNR= 30.913425 SSIM= 0.881638
+x2 5 image5_RCAN_x2.png: PSNR= 26.027856 SSIM= 0.772242
+--------Mean--------
+x2: PSNR= 34.986048 SSIM= 0.909213
+
+x3 1 image1_RCAN_x3.png: PSNR= 46.607888 SSIM= 0.998579
+x3 2 image2_RCAN_x3.png: PSNR= 35.470048 SSIM= 0.956854
+x3 3 image3_RCAN_x3.png: PSNR= 28.506807 SSIM= 0.884379
+x3 4 image4_RCAN_x3.png: PSNR= 28.497567 SSIM= 0.781022
+x3 5 image5_RCAN_x3.png: PSNR= 24.093282 SSIM= 0.618421
+--------Mean--------
+x3: PSNR= 32.635118 SSIM= 0.847851
+
+x4 1 image1_RCAN_x4.png: PSNR= 45.912779 SSIM= 0.997806
+x4 2 image2_RCAN_x4.png: PSNR= 31.910098 SSIM= 0.914397
+x4 3 image3_RCAN_x4.png: PSNR= 27.420186 SSIM= 0.839680
+x4 4 image4_RCAN_x4.png: PSNR= 27.214354 SSIM= 0.703785
+x4 5 image5_RCAN_x4.png: PSNR= 23.176480 SSIM= 0.519926
+--------Mean--------
+x4: PSNR= 31.126779 SSIM= 0.795119
+
+x8 1 image1_RCAN_x8.png: PSNR= 40.208437 SSIM= 0.990611
+x8 2 image2_RCAN_x8.png: PSNR= 25.288092 SSIM= 0.726069
+x8 3 image3_RCAN_x8.png: PSNR= 23.453031 SSIM= 0.645538
+x8 4 image4_RCAN_x8.png: PSNR= 24.990674 SSIM= 0.560784
+x8 5 image5_RCAN_x8.png: PSNR= 21.603563 SSIM= 0.344217
+--------Mean--------
+x8: PSNR= 27.108759 SSIM= 0.653444
+
+**********************
+Method_2: RCANplus; Set: Set5
+x2 1 image1_RCANplus_x2.png: PSNR= 47.837229 SSIM= 0.999086
+x2 2 image2_RCANplus_x2.png: PSNR= 41.368786 SSIM= 0.986981
+x2 3 image3_RCANplus_x2.png: PSNR= 28.905854 SSIM= 0.905969
+x2 4 image4_RCANplus_x2.png: PSNR= 30.928251 SSIM= 0.881912
+x2 5 image5_RCANplus_x2.png: PSNR= 26.030989 SSIM= 0.772334
+--------Mean--------
+x2: PSNR= 35.014222 SSIM= 0.909256
+
+x3 1 image1_RCANplus_x3.png: PSNR= 46.751219 SSIM= 0.998708
+x3 2 image2_RCANplus_x3.png: PSNR= 35.566797 SSIM= 0.957261
+x3 3 image3_RCANplus_x3.png: PSNR= 28.500568 SSIM= 0.884252
+x3 4 image4_RCANplus_x3.png: PSNR= 28.522656 SSIM= 0.781719
+x3 5 image5_RCANplus_x3.png: PSNR= 24.100175 SSIM= 0.618554
+--------Mean--------
+x3: PSNR= 32.688283 SSIM= 0.848099
+
+x4 1 image1_RCANplus_x4.png: PSNR= 46.057235 SSIM= 0.998139
+x4 2 image2_RCANplus_x4.png: PSNR= 31.858698 SSIM= 0.914063
+x4 3 image3_RCANplus_x4.png: PSNR= 27.487047 SSIM= 0.841460
+x4 4 image4_RCANplus_x4.png: PSNR= 27.255372 SSIM= 0.705618
+x4 5 image5_RCANplus_x4.png: PSNR= 23.190931 SSIM= 0.520662
+--------Mean--------
+x4: PSNR= 31.169857 SSIM= 0.795988
+
+x8 1 image1_RCANplus_x8.png: PSNR= 41.246998 SSIM= 0.992910
+x8 2 image2_RCANplus_x8.png: PSNR= 25.300227 SSIM= 0.726583
+x8 3 image3_RCANplus_x8.png: PSNR= 23.624841 SSIM= 0.650534
+x8 4 image4_RCANplus_x8.png: PSNR= 25.041251 SSIM= 0.562326
+x8 5 image5_RCANplus_x8.png: PSNR= 21.614908 SSIM= 0.344954
+--------Mean--------
+x8: PSNR= 27.365645 SSIM= 0.655461
+>> 
